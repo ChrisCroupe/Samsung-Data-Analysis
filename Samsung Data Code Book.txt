@@ -23,8 +23,9 @@ The data is then reduced to only view the mean and standard deviation variables 
 run_analysis_output.txt file shows the average of the mean and standard deviations across all remaning vairiables grouped by Subject and 
 Activity.
 
-Here is a small cut of what that output file looks like (the column headers look better when read into file viewing tool like R Studio file editor or Excel (sapce delimieted)
-... 
+Here is a small cut of what that output file looks like (the column headers look better when read into file viewing tool like R Studio
+file editor or Excel (sapce delimieted)...
+
 Subject	Activity	Time Series Body Accelerometer -mean()-X	Time Series Body Accelerometer -mean()-Y	Time Series Body Accelerometer -mean()-Z	Time Series Gravity Accelerometer -mean()-X	Time Series Gravity Accelerometer -mean()-Y	Time Series Gravity Accelerometer -mean()-Z
 1	Laying	0.221598244	-0.040513953	-0.113203554	-0.248881798	0.705549773	0.44581772
 1	Sitting	0.261237565	-0.001308288	-0.104544182	0.831509933	0.204411593	0.332043703
